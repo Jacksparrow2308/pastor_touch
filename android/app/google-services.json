@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "939757105803",
+    "project_id": "gvm-touch",
+    "storage_bucket": "gvm-touch.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939757105803:android:b147118be042285ecd1a8e",
+        "android_client_info": {
+          "package_name": "com.example.gvm_touch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2SiuIicjXLjmljBKFvxrWnoK4uwRJ808"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939757105803:android:3e996f3da27a1b0fcd1a8e",
+        "android_client_info": {
+          "package_name": "com.example.pastor_touch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2SiuIicjXLjmljBKFvxrWnoK4uwRJ808"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
