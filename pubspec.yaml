@@ -38,6 +38,20 @@ dependencies:
   firebase_core: ^2.27.0
   firebase_auth: ^4.17.0
   cloud_firestore: ^4.15.0
+  image_picker: ^1.1.2
+  firebase_storage: ^11.7.7
+  audioplayers: ^6.0.0
+  path_provider: ^2.1.2
+  flutter_sound: ^9.28.0
+  permission_handler: ^12.0.3  # for mic permission
+  shared_preferences: ^2.2.2
+  cloud_functions: ^4.7.6
+
+
+
+
+
+
 
 dev_dependencies:
   flutter_test:
@@ -52,11 +66,8 @@ dev_dependencies:
   flutter_launcher_icons: ^0.13.1
 
 flutter_launcher_icons:
-  android: "launcher_icon"
-  ios: true
-  image_path: "assets/launcher_icon.png"
-  adaptive_icon_background: "#FFFFFF"
-  adaptive_icon_foreground: "assets/launcher_foreground.png"
+  android: true
+  image_path: "assets/bih.png"
 
 
 # For information on the generic Dart part of this file, see the
